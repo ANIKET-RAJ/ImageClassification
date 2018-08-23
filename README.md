@@ -1,5 +1,6 @@
 # ImageClassification
-VGG16-Python-scikit-learn-SVM-opencv   
+[VGG16-Python-scikit-learn-SVM-opencv]
+   
 This project is an attempt to classify the hematoxylin and eosin stained breast images into different classes. The dataset is composed of Hematoxylin and eosin stained breast histology microscopy images. The annotation was performed by two medical experts and images where there was disagreement were discarded. The dataset contains a total of 400 microscopy images, distributed as follows:   
 • Normal: 100  
 • Benign: 100  
